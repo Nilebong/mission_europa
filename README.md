@@ -10,8 +10,7 @@ https://mission-europa.web.app
 
 ## Features
 
-- Vite + React application
-- Solar system visualization with Sun, Earth, Jupiter, Europa, and spacecraft marker
+- Europa model on hero 
 - Milestone timeline and date slider
 - Toggle between outer system view and spacecraft-follow camera
 - Local `utils/api.js` fallback behavior for missing backend responses
@@ -85,6 +84,6 @@ Contributions are welcome. To make changes:
 2. Update the code or data.
 3. Open a pull request with a clear description.
 
-## License
 
-Add a `LICENSE` file if you want to publish this repository under an open-source license.
+
+
