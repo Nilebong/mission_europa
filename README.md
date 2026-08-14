@@ -2,6 +2,8 @@
 
 A Vite + React frontend for an interactive Europa mission visualization.
 
+I tried to make the tracking system working but I endup only making up a 3d model.
+
 This workspace contains the client-side app only. It renders a mission dashboard, milestone timeline, and Three.js solar system visualization using the local frontend files in this folder.
 
 # Try it
@@ -12,7 +14,7 @@ https://mission-europa.web.app
 
 - Europa model on hero 
 - Milestone timeline and date slider
-- Toggle between outer system view and spacecraft-follow camera
+- Toggle between outer system view and spacecraft-follow camera worked.
 - Local `utils/api.js` fallback behavior for missing backend responses
 
 ## Requirements
