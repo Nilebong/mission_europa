@@ -10,7 +10,7 @@ export default function App() {
     <div style={{ background: '#020408', minHeight: '100vh' }}>
       <Nav />
       <Hero />
-      <Track apiUrl="http://localhost:8080/api" />
+      <Track />
       <About />
       <Credit />
     </div>
